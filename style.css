@@ -2,3 +2,10 @@ div {
     background-color: slategray;
     color: white;
 }
+.div_page1 {
+  background-color: yellow;
+}
+.h1_page1 {
+  color: red;
+  font-size: 24px;
+}
