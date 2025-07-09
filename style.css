@@ -2,3 +2,8 @@ div {
     background-color: rgb(10, 121, 231);
     color: rgb(192, 17, 17);
 }
+
+#page1 {
+    background-color: #00ff00;
+    color: white;
+}
