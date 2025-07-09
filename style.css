@@ -2,16 +2,14 @@ div {
     background-color: slategray;
     color: white;
 }
-<<<<<<< HEAD
-.miyaDiv{
-    background-color: orange;
-    color: black;
-=======
 .div_page1 {
   background-color: yellow;
 }
 .h1_page1 {
   color: red;
   font-size: 24px;
->>>>>>> 9803a865ca71e6fedf7bb45d6a61eb089ace7450
+}
+.miyaDiv{
+  background-color: orange;
+  color: black;
 }
