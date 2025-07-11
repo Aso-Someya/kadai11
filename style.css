@@ -1,4 +1,21 @@
 div {
-    background-color: slategray;
+    background-color: red;
     color: white;
 }
+
+.tanamachi-box {
+  background-color: #FF00FF; /* 背景色：マゼンタ */
+  color: #000000;            /* 文字色：黒 */
+  
+}
+
+#page4{
+    background-color: aquamarine;
+    color: black;
+}
+
+#page3{
+    background-color: yellow;
+    color: black;
+}
+
